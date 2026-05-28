@@ -1,0 +1,1 @@
+It is hereby brought to the attention of the user that the file here is not an actual honeypot and is instead a demo designed for educational purposes. It is a symple python code that generates a website on the port 5000 of the computer's local server which an attacker would encounter if they approach that particular port.
